@@ -1,0 +1,14 @@
+drag and drop 
+
+drag and drp method can be achiecved by 4 properties 
+1) dragable
+2)ondragstart
+3)ondraghover
+4)ondraw
+
+dragalbe:when added has to elemnt,make the target element ,that can ce dragable
+ondragstart:is called imeditlt the elementdrag.usually the content to be drag above a set at the point
+dropable:when added has to elemnt,make the target element ,that can be dropable
+ondraghover:is added as a event listner to an element whre the draged conten will be droped.in another word it is used to specify hwere the content isto be dropped
+ondrop:it is called the draggedcontent is realised immideately on the 
+
